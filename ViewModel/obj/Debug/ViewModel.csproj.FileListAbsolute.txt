@@ -1,0 +1,5 @@
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\ViewModel\obj\Debug\ViewModel.pdb

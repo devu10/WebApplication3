@@ -1,0 +1,5 @@
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache

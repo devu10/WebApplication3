@@ -1,0 +1,15 @@
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\admin.RAMSHARAN\Documents\Visual Studio 2017\Projects\WebApplication3\BusinessLayer\obj\Debug\BusinessLayer.pdb
