@@ -223,7 +223,7 @@
     <Content Include="Areas\SPA\Views\Main\Index.cshtml" />
     <Content Include="Areas\SPA\Views\Main\EmployeeList.cshtml" />
     <Content Include="Areas\SPA\Views\Main\AddNewLink.cshtml" />
-    <Content Include="Areas\SPA\Views\Main\CreateEmployee.cshtml" />
+    <Content Include="Areas\SPA\Views\Shared\CreateEmployee.cshtml" />
     <None Include="Scripts\jquery-1.12.4.intellisense.js" />
     <Content Include="Scripts\jquery-1.12.4.js" />
     <Content Include="Scripts\jquery-1.12.4.min.js" />

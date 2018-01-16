@@ -68,10 +68,10 @@ namespace WebApplication3.Areas.SPA.Controllers
         public ActionResult AddNew()
         {
             CreateEmployeeViewModel v = new CreateEmployeeViewModel();
-            return PartialView("CreateEmployee.cshtml",v);
+            return PartialView("~/Areas/SPA/Views/Shared/CreateEmployee.cshtml", v);
         }
 
-      
+
 
     }
 }
